@@ -1,0 +1,17 @@
+{
+    "name": "realtimechat",
+    "version": "1.0.0",
+    "description": "A realtime messaging application.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "realtime",
+      "messaging",
+      "application"
+    ],
+    "author": "mesa",
+    "license": "ISC"
+  }
+  
